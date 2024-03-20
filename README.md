@@ -1,4 +1,4 @@
-# the_script.sh Guide
+# Running the_script.sh
 
 This guide describes how to use the `the_script.sh` Bash script. The script takes six consecutive numbers as command line arguments and offers a menu for performing various operations with these numbers.
 
